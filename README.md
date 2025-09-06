@@ -22,10 +22,10 @@
 ## 🎥 Demo  
 
 ### 🔹 Upload Image  
-![Upload Example](assets/demo_upload.png)  
+![Upload Example](demo.png)  
 
 ### 🔹 Prediction Result  
-![Prediction Example](assets/demo_prediction.png)  
+![Prediction Example](predicted.png)  
 
 ---
 
